@@ -1,3 +1,3 @@
 # Setup
 Setting up git
-Checked
+Managed
